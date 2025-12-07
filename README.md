@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, SQL, ML, DL**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pX91Lf7V8wGkqggS0t0IDKXd22DP-FzI3RUeM9XHETE/edit?tab=t.0#heading=h.1e104ax3w489](https://docs.google.com/document/d/1pX91Lf7V8wGkqggS0t0IDKXd22DP-FzI3RUeM9XHETE/edit?tab=t.0#heading=h.1e104ax3w489)
+- 📄 Know about my experiences https://www.linkedin.com/in/htun-naing-henry-07836b299/
 
 <p align="left">
 </p>
