@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hi there! I'm [Htun Naing] 👋<br>I'm a Data Scientist and AI Enthusiast focused on leveraging data and machine learning to drive tangible business value and data-driven strategy. I transform complex datasets into actionable insights and robust predictive models.
+🚀 Hi there! I'm Htun Naing 👋<br>I'm a Data Scientist and AI Enthusiast focused on leveraging data and machine learning to drive tangible business value and data-driven strategy. I transform complex datasets into actionable insights and robust predictive models.
 
 
 ## 🌐 Socials:
